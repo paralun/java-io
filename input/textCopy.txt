@@ -1,0 +1,3 @@
+In this example we shall show you how to encode Strings with the Base64 algorithm. 
+We are using the org.apache.commons.codec.binary.Base64 class that provides Base64 
+encoding and decoding as defined by RFC 2045. To encode a String with Base64 one should perform the following steps:
